@@ -125,7 +125,7 @@ class Vertical{
 		return value;
 	}
 	
-}
+
 class Comparing implements Comparator<Vertical>{
 
 	@Override
