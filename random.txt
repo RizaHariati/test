@@ -1,2 +1,3 @@
 manya manya
-monyo monyo
+monyo monyo 
+git adding
